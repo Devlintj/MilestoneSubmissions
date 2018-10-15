@@ -1,0 +1,34 @@
+Scrum:
+Tyler Devlin
+1.What have you completed
+since the last meeting: I haven't completed anything.
+2. What will you complete before the next meeting: I will work on the html of our website as well as the backend code with the backend code of the login
+3. Describe any obstacles or roadblocks you face: time constraints/other school obligations.
+Gerritt Luoma
+1.What have you completed
+since the last meeting: Nothing
+2. What will you complete before the next meeting: I will work on the student course enrollment and personal event creation for the project.
+3. Describe any obstacles or roadblocks you face: Other school Work.
+Desmond
+1.What have you completed
+since the last meeting: Nothing
+2. What will you complete before the next meeting: Calender Design/Programming. 
+3. Describe any obstacles or roadblocks you face: Knowing little about HTML.
+Kyle Rose
+1.What have you completed
+since the last meeting: Hasn't been anything to comlete at the time.
+2. What will you complete before the next meeting: Our project's notification system, and front end design.
+3. Describe any obstacles or roadblocks you face: Not knowing HTML.
+Lightime
+1.What have you completed
+since the last meeting: nothing.
+2. What will you complete before the next meeting: Front end design/login profile creation.
+3. Describe any obstacles or roadblocks you face: Other school work/lack of HTML knowledge.
+Nicki Richter
+1.What have you completed
+since the last meeting: Wasn't able to do anything.
+2. What will you complete before the next meeting: Work on the database 
+3. Describe any obstacles or roadblocks you face: Time constraints.
+
+Retrospective Meeting:
+What went well was that we did some very good planning on what we were going for the project. What didn't go well is that we have not gotten any of the code started. What we will improve on for the next sprint is get alot of progress on the code.
